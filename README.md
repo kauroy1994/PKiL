@@ -2,6 +2,8 @@
 
 PKiL is a novel approach that combines machine learning models with process knowledge structures to create explainable and reliable AI systems. By infusing domain-specific causal knowledge into the learning process, PKiL enables the generation of interpretable predictions that can be audited and refined by subject matter experts.
 
+📰 [Paper link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LpOo_IUAAAAJ&citation_for_view=LpOo_IUAAAAJ:BMiRioqqltAC)
+
 ## Overview
 
 The PKiL framework consists of the following components:
